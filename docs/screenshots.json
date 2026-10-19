@@ -1,0 +1,5 @@
+[
+  {"file":"01-live-graphs.png","caption":"The menu bar popover graphs live Wi-Fi signal, noise and transmit rate, with band, channel, SNR and a quality rating up top.","alt":"WifiRoamLog popover with live signal, noise and rate charts"},
+  {"file":"02-settings.png","caption":"Settings let you choose the menu bar format, polling interval, history length, roam notifications and launch at login.","alt":"WifiRoamLog Settings window"},
+  {"file":"03-privacy-intro.png","caption":"On first launch, WifiRoamLog explains why it asks for Location access and works without it if you decline.","alt":"WifiRoamLog welcome card explaining Location access"}
+]

@@ -1,5 +1,7 @@
 # WifiRoamLog
 
+**🌐 Website:** [turhe123.github.io/wifi-roam-log](https://turhe123.github.io/wifi-roam-log/)
+
 Graph Wi-Fi signal, noise and rate live and keep a log of every roam and channel change.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -29,7 +31,17 @@ WifiRoamLog is a free, open-source, 100% native, backend-free alternative to pai
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-live-graphs.png" alt="WifiRoamLog popover with live signal, noise and rate charts" width="720"></p>
+
+<p align="center"><em>The menu bar popover graphs live Wi-Fi signal, noise and transmit rate, with band, channel, SNR and a quality rating up top.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="WifiRoamLog Settings window" width="560"></p>
+
+<p align="center"><em>Settings let you choose the menu bar format, polling interval, history length, roam notifications and launch at login.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-privacy-intro.png" alt="WifiRoamLog welcome card explaining Location access" width="560"></p>
+
+<p align="center"><em>On first launch, WifiRoamLog explains why it asks for Location access and works without it if you decline.</em></p>
 
 ## Install
 
